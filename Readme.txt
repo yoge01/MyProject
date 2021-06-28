@@ -1,4 +1,4 @@
-Author: Yogesh singh
+Author: Yogesh kumar
 Author URL: https://makitweb.com/
 Author Email: makitweb@gmail.com
 Tutorial Link: https://makitweb.com/create-simple-login-page-with-php-and-mysql/
